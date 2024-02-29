@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 19,
+      "name": "自定义1",
+      "ad": "no",
+      "url": "https://api.leduotv.com/wp-api/ifr.php?vid="
+    },
+    {
+      "id": 19,
+      "name": "自定义2",
+      "ad": "no",
+      "url": "https://jx.xmflv.cc/?url="
+    },
+    {
+      "id": 19,
+      "name": "自定义3",
+      "ad": "no",
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "id": 19,
+      "name": "自定义4",
+      "ad": "no",
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "id": 19,
+      "name": "自定义5",
+      "ad": "no",
+      "url": "https://www.yemu.xyz/?url="
+    },
+    {
+      "id": 19,
+      "name": "自定义6",
+      "ad": "no",
+      "url": "https://jx.777jiexi.com/player/?url="
+    }
+  ]
+}
